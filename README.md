@@ -14,7 +14,7 @@ This project implements a **Hotel Reservation System** using **Spring Boot**. It
 ## Technologies Used
 
 - **Spring Boot** for the backend framework
-- **JPA/Hibernate** for ORM and database interactions
+- **JPA** for database interactions
 - **MySQL** (or any relational database) for data storage
 - **RESTful APIs** for communication
 
@@ -89,3 +89,13 @@ Create a new reservation. Example request body:
 - **Get Reservation by Confirmation ID**
 GET /api/reservations/confirmation/{confirmationId}
 Fetch a reservation by confirmation ID.
+
+# Screenshots
+## GET Hotel Data
+![GET /api/hotels](src/main/resources/static/HotelGet.PNG)
+
+## POST Hotel Data
+![GET /api/hotels](src/main/resources/static/HotelPost.PNG)
+
+## POST Reservation Data
+![GET /api/hotels](src/main/resources/static/Reservation-1.PNG)
