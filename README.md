@@ -92,10 +92,10 @@ Fetch a reservation by confirmation ID.
 
 # Screenshots
 ## GET Hotel Data
-![GET /api/hotels](src/main/resources/static/HotelGet.PNG)
+![GET /api/hotels](src/main/resources/Static/HotelGet.PNG)
 
 ## POST Hotel Data
-![GET /api/hotels](src/main/resources/static/HotelPost.PNG)
+![POST /api/hotels](src/main/resources/Static/HotelPost.PNG)
 
 ## POST Reservation Data
-![GET /api/hotels](src/main/resources/static/Reservation-1.PNG)
+![POST /api/reservations](src/main/resources/Static/Reservation-1.PNG)
